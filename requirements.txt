@@ -1,4 +1,4 @@
 Transformers
 tensorflow
 torch
-
+google-generativeai
