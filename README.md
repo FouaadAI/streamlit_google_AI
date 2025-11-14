@@ -59,7 +59,7 @@ streamlit_google_AI/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/streamlit_google_AI.git
+git clone https://github.com/FouaadAI/streamlit_google_AI.git
 cd streamlit_google_AI
 ```
 
